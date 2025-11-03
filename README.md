@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratima Panigrahi</h1>
-<h3 align="center">Code. Clarity. Creation.</h3>
+
 
 - 👨‍💻 All of my projects are available at [https://pratimapanigrahi.github.io/Portfolio/](https://pratimapanigrahi.github.io/Portfolio/)
 
