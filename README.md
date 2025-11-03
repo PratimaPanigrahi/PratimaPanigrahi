@@ -31,14 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratimapanigrahi&show_icons=true&theme=radical" alt="Pratima's GitHub stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratimapanigrahi&theme=radical" alt="streak stats" height="150" />
-</p>
-
----
-
 ### 💬 Fun Fact  
 💻 “I don’t just write code — I design digital experiences.”  
 
