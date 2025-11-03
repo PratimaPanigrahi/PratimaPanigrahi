@@ -30,9 +30,4 @@
 </p>
 
 ---
-
-### 💬 Fun Fact  
-💻 “I don’t just write code — I design digital experiences.”  
-
----
 ⭐️ *From [Pratima Panigrahi](https://github.com/pratimapanigrahi)*
